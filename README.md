@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Kant</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="coding" width="400" sre="https'//user
-images- githubuserontent.com/65889276/140866486-81;10876-9a 8f*4d6a-98dc-08498 ea70.git>
+<img align="right" alt="coding" width="400" sre=![image](https://github.com/Utkarsh-kant/Utkarsh-Kant/assets/96645535/f9feb864-1f7a-4102-88d5-5699617b3ee3)
+t>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

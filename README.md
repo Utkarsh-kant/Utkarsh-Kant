@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Utkarsh Kant
 
-### 🚀 Python Full Stack Developer | Cloud & Web Application Developer
+### 🚀 Python Full Stack Developer | Web Application Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Angular+%7C+SQL+%7C+Azure+Developer;Building+Scalable+Web+Applications;Passionate+Software+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Angular+%7C+SQL+%7C+Azure+Developer;Building+Modern+Web+Applications;Passionate+Software+Developer" />
 
 </div>
 
@@ -12,11 +12,11 @@
 
 # 💫 About Me
 
-🔹 Passionate Python Full Stack Developer with strong knowledge in modern web technologies and cloud-native application development.  
-🔹 Currently working as a Project Engineer at Wipro.  
+🔹 Passionate Python Full Stack Developer with strong knowledge in modern web technologies and software development.  
+🔹 Currently working at Wipro and continuously improving technical and problem-solving skills.  
 🔹 Completed Pre-Skilling Program in Python Full Stack Development from RPS during my tenure at Wipro.  
 🔹 Interested in building scalable, efficient, and user-friendly applications.  
-🔹 Always learning new technologies and improving problem-solving skills.
+🔹 Always learning new technologies and improving development skills.
 
 ---
 
@@ -60,21 +60,23 @@
 ## 🔹 Smart Student Portal
 A web application for managing student records, attendance, and academic activities using PHP, MySQL, HTML, CSS, and JavaScript.
 
-## 🔹 Cloud Native Python Application
-Developed scalable cloud-native applications using Python and Azure services.
+## 🔹 Python Full Stack Applications
+Developed responsive and scalable web applications using Python, Angular, SQL, and Azure.
 
 ## 🔹 Portfolio Website
 Responsive personal portfolio website showcasing projects, skills, and achievements.
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-kant&show_icons=true&theme=tokyonight" />
+![](https://github-readme-stats.vercel.app/api?username=Utkarsh-kant&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-kant&layout=compact&theme=tokyonight"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-kant&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-kant&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -84,7 +86,7 @@ Responsive personal portfolio website showcasing projects, skills, and achieveme
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-kant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-kant-07041a295)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh-kant)
 
@@ -96,6 +98,6 @@ Responsive personal portfolio website showcasing projects, skills, and achieveme
 
 <div align="center">
 
-### ✨ "Building Scalable Web & Cloud Applications" ✨
+### ✨ Building Modern & Scalable Web Applications ✨
 
 </div>

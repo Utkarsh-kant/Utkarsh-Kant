@@ -10,13 +10,15 @@
 
 ---
 
-# 💫 About Me
+<div align="center">
 
-🔹 Passionate Python Full Stack Developer with strong knowledge in modern web technologies and software development.  
-🔹 Currently working at Wipro and continuously improving technical and problem-solving skills.  
-🔹 Completed Pre-Skilling Program in Python Full Stack Development from RPS during my tenure at Wipro.  
-🔹 Interested in building scalable, efficient, and user-friendly applications.  
-🔹 Always learning new technologies and improving development skills.
+### 💫 About Me
+
+Passionate Python Full Stack Developer focused on building modern, scalable, and user-friendly web applications.  
+Currently working at Wipro and continuously improving problem-solving and development skills.  
+Experienced with Python, Angular, SQL, Azure, and modern web technologies.
+
+</div>
 
 ---
 
@@ -24,17 +26,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,java,angular,js,html,css,bootstrap,mysql,azure,git,linux,vscode" />
 
 </div>
 
@@ -42,29 +34,16 @@
 
 # 📚 Learning & Expertise
 
-✔ Computer Architecture – Hardware, Network & Software  
-✔ Software Development Life Cycle (SDLC) & Agile Principles  
-✔ Linux Operating System & Source Code Management with Git  
-✔ RDBMS & SQL  
-✔ Python Programming with Data Structures  
-✔ HTML, CSS & JavaScript  
-✔ Angular Applications  
-✔ Web Development with Python  
-✔ Cloud Native Application Development with Python on Azure  
-✔ Capstone Project Development  
+<div align="center">
 
----
+| 💻 Development | ☁️ Cloud & Tools | ⚡ Concepts |
+|---|---|---|
+| Python Full Stack | Azure Cloud | SDLC & Agile |
+| Angular Applications | Git & GitHub | Data Structures |
+| HTML • CSS • JavaScript | Linux | SQL & RDBMS |
+| Responsive Web Apps | VS Code | Problem Solving |
 
-# 🚀 Featured Projects
-
-## 🔹 Smart Student Portal
-A web application for managing student records, attendance, and academic activities using PHP, MySQL, HTML, CSS, and JavaScript.
-
-## 🔹 Python Full Stack Applications
-Developed responsive and scalable web applications using Python, Angular, SQL, and Azure.
-
-## 🔹 Portfolio Website
-Responsive personal portfolio website showcasing projects, skills, and achievements.
+</div>
 
 ---
 
@@ -72,11 +51,11 @@ Responsive personal portfolio website showcasing projects, skills, and achieveme
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Utkarsh-kant&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-kant&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-kant&theme=tokyonight&hide_border=false)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-kant&theme=tokyonight&hide_border=true&border_radius=10" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-kant&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-kant&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -86,11 +65,17 @@ Responsive personal portfolio website showcasing projects, skills, and achieveme
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-kant-07041a295)
+<a href="https://www.linkedin.com/in/utkarsh-kant-07041a295">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh-kant)
+<a href="https://github.com/Utkarsh-kant">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kantnishi400@gmail.com)
+<a href="mailto:kantnishi400@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -99,5 +84,7 @@ Responsive personal portfolio website showcasing projects, skills, and achieveme
 <div align="center">
 
 ### ✨ Building Modern & Scalable Web Applications ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6e40c9&height=120&section=footer"/>
 
 </div>

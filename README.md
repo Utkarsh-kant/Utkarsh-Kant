@@ -4,7 +4,7 @@
 
 ### Python Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Angular+%7C+SQL+%7C+Azure;Building+Modern+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Angular+%7C+SQL+%7C+Azure;Building+Modern+Web+Applications" />
 
 </div>
 
@@ -12,12 +12,11 @@
 
 ## 💫 About Me
 
-Passionate Full Stack Developer with experience in building responsive and scalable web applications using Python and modern frontend technologies.  
-Focused on clean UI, efficient backend systems, and continuous learning to improve development and problem-solving skills.
+Passionate Full Stack Developer focused on building scalable and responsive web applications with clean UI and efficient backend systems.
 
-- Working with Python, Angular, SQL & Azure  
-- Experience with responsive web application development  
-- Strong understanding of SDLC, Git, Linux & Agile practices  
+- Python Full Stack Developer at Wipro  
+- Experience in web application development  
+- Strong understanding of SDLC, Agile & Git workflows  
 - Interested in cloud-native and scalable applications  
 
 ---
@@ -26,7 +25,23 @@ Focused on clean UI, efficient backend systems, and continuous learning to impro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,angular,javascript,html,css,bootstrap,mysql,azure,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,angular,js,html,css,bootstrap,mysql,git,linux,vscode,azure" />
+
+</div>
+
+---
+
+## ⚡ Technologies I Use In Projects
+
+<div align="center">
+
+| Frontend | Backend | Database | Cloud & Tools |
+|---|---|---|---|
+| HTML5 | Python | MySQL | Azure |
+| CSS3 | Java | SQL | Git |
+| JavaScript | PHP | PostgreSQL | GitHub |
+| Angular | JDBC | Firebase | Linux |
+| Bootstrap | REST APIs |  | VS Code |
 
 </div>
 
@@ -36,13 +51,13 @@ Focused on clean UI, efficient backend systems, and continuous learning to impro
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-kant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-kant&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-kant&theme=tokyonight&hide_border=true&background=0D1117" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-kant&theme=github-dark-blue&hide_border=true" />
 
-<br><br>
+<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-kant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-kant&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -52,16 +67,16 @@ Focused on clean UI, efficient backend systems, and continuous learning to impro
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/utkarsh-kant-07041a295">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://github.com/Utkarsh-kant">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Utkarsh-kant">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/utkarsh-kant-07041a295">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kantnishi400@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
